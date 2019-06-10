@@ -1,0 +1,9 @@
+n = int(input("Type a number to check if it's odd or even:")) 
+
+#verifying if the number is odd or even
+
+if n % 2 == 0:
+  print('The number ' + str(n) + ' is even'
+  
+else:
+    print('The number ' + str(n) + ' is odd'
